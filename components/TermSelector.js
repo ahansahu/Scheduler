@@ -24,7 +24,7 @@ const termButtonBase = {
     flex: 1,
     borderRadius: 5,
     justifyContent: 'center',
-    alignItems: 'center',
+    // alignItems: 'center',
     margin: 10,
     height: 40,
     padding: 10,
